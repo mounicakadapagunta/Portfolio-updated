@@ -1,7 +1,7 @@
-const navToogle = document.getElementById('nav-toogle');
+const navToggle = document.getElementById('nav-toggle');
 const navMenu = document.getElementById('nav-menu');
 const navClose = document.getElementById('nav-close');
-navToogle.addEventListener('click', () => {
+navToggle.addEventListener('click', () => {
     navMenu.classList.add('show-menu');
 })
 navClose.addEventListener('click', () => {
