@@ -455,24 +455,51 @@ img{
     height: 5px;
     background-color: var(--first-color);
 }
+/*frontend*/
 .skill__html{
     width: 90%;
 }
 .skill__css{
     width: 80%;
 }
-.skill__javascript{
-    width: 80%;
-}
-.skill__reactjs{
+.skill__js{
     width: 70%;
 }
-.skill__php{
+.skill__reactjs{
     width: 60%;
 }
+.skill__bootstrap{
+    width:70%
+}
+/*backend*/
 .skill__node{
-    width: 60%;
+    width: 80%;
 }
+.skill__express{
+    width: 85%;
+}
+/*database*/
+.skill__sql{
+width:60%
+}
+.skill__mysql{
+width:70%
+}
+.skill__mdb{
+width:60%
+}
+/*others*/
+.skill__git{
+   width:60% 
+}
+.skill__heroku{
+    width:80%
+}
+.skill__netlify{
+    width:85%
+}
+
+
 .skills__open .skills__arrow{
     transform: rotate(180deg);
 }
