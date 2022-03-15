@@ -508,7 +508,7 @@ width:60%
 }
 
 /* Qualification  */
-/* .qualification__container{
+.qualification__container{
     grid-template-rows: .8fr 1fr;
     gap: 1rem;
 }
@@ -571,7 +571,7 @@ width:60%
     height: 100%;
     transform: translate(-6px,7px);
     background-color: var(--first-color);
-}*/
+}
 
 
 /* contact */
