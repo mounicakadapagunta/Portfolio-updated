@@ -302,8 +302,8 @@ img{
     
 }
 .projects__wrapper{
-    height: 240px;
-    width: 220px;
+    height: 340px;
+    width: 320px;
     display: flex;
     flex-direction: column;
     box-shadow: 0 0 5px var(--text-color);
@@ -335,6 +335,7 @@ img{
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    padding-bottom: 1rem;
 }
 .project__des{
  font-size: 12px;   
@@ -345,10 +346,13 @@ img{
     /* background-color: var(--first-color); */
 }
 .project__button{
-     background-color: var(--first-color);
-     border-radius: 2px;
+     background-color: rgb(238, 230, 230);
+     border-radius: 5px;
      border: none;
-     padding:2px;
+     padding:5px;
+     height: 30px;
+     width: 70px;
+     
 }
 .project__description{
     font-size: var(--normal-font-size);
