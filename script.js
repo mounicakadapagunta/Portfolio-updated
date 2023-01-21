@@ -83,7 +83,8 @@ function topFunction() {
 }
 
 // Injecting Dynamic Text
-let array = ['AWS', 'DevOps', 'Linux', 'Shell Scripting', 'Git', 'Jenkins', 'Docker', 'Kubernetes', 'Ansible', 'Terraform'];
+let array = ['AWS', 'DevOps', 'Linux', 'Shell Scripting', 'Git', 'Jenkins',
+    'Docker', 'Kubernetes', 'Ansible', 'Terraform', 'Maven', 'Nexus', 'Apache Tomcat', 'SonarQube', 'Nagios'];
 const Inject = document.querySelectorAll('.inject');
 
 let i = 0;
